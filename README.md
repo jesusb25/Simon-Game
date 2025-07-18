@@ -6,7 +6,7 @@ Play the Simon game online.
 
 ## Demo
 
-![](https://github.com/jesusb25/Simon-Game/blob/main/assets/demo.gif)
+![](https://github.com/jesusb25/Simon-Game/blob/master/assets/demo.gif)
 
 ## Description
 
